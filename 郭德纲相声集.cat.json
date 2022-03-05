@@ -1,0 +1,1310 @@
+{
+	"name": "郭德纲作品合集",
+	"cover": "https://wx4.sinaimg.cn/bmiddle/0079OWK7gy1gzmku9527zj30820820sy.jpg",
+	"type": "2022-02-21 / 对口相声 / 单口相声",
+	"description": "道德三皇五帝，功名夏后商周。七雄五霸闹春秋，顷刻兴亡过手。青史几行名姓，北邙无数荒丘。前人播种后人收，说甚龙争虎斗。",
+	"playlist": [
+		{
+			"id": "001",
+			"name": "对口相声",
+            "type":"Sniff",
+			"entities": [
+				{
+					"id": 131,
+					"name": "我要幸福",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4711863733387391",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 60,
+					"name": "我要幸福2",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4708088654266512",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+                {
+					"id": 0,
+					"name": "文武双全",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4328867746482886",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 1,
+					"name": "十年",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4483081692708911",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 2,
+					"name": "你要折腾",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4738605479034987",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 3,
+					"name": "10周年集锦",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4739067880079564",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 4,
+					"name": "我这半辈子",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4738411962236998",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 5,
+					"name": "郭家菜",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4485192463876102",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 6,
+					"name": "嫖客和贱客",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4733621773467800",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 7,
+					"name": "我是社会人",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4723671517036566",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 8,
+					"name": "跳大神",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4666958084505713",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 9,
+					"name": "路边艳遇",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4739047613202536",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 10,
+					"name": "知心姐姐",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4541099365040131",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 11,
+					"name": "王叔叔",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4691034811334689",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 12,
+					"name": "青楼漫谈",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4691079212236901",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 13,
+					"name": "于老师药别停",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4691474789630052",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 14,
+					"name": "老爷子要偷渡",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4431941118660985",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 15,
+					"name": "叫卖图",
+					"type": "Sniff",
+					"address": "https://haokan.hao123.com/v?vid=14513208839651194372",
+					"sniffRules": [
+						"start:http > contain:bdstatic.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 16,
+					"name": "于老二和铁锤",
+					"type": "Sniff",
+					"address": "https://haokan.baidu.com/v?vid=7575417721137258564",
+					"sniffRules": [
+						"start:http > contain:bdstatic.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 17,
+					"name": "追着幸福跑",
+					"type": "Sniff",
+					"address": "https://haokan.baidu.com/v?vid=14212435604415591553",
+					"sniffRules": [
+						"start:http > contain:bdstatic.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 18,
+					"name": "洪羊洞",
+					"type": "Sniff",
+					"address": "https://haokan.baidu.com/v?vid=12347647318462783129",
+					"sniffRules": [
+						"start:http > contain:bdstatic.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 19,
+					"name": "经典合集1",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4534857691496460",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 20,
+					"name": "经典合集2",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4720748036816905",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 21,
+					"name": "唱大戏",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4692148692647955",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 22,
+					"name": "富贵人生",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4692550926401680",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 23,
+					"name": "兄弟情长",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4687713375551526",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 24,
+					"name": "扒马褂",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4693967875539005",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 25,
+					"name": "窦公训女",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4694001610326073",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 26,
+					"name": "你这孙子不厚道",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4694666285875266",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 27,
+					"name": "于谦撸肉串",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4695105060405306",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 28,
+					"name": "画扇面",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4695420946022418",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 29,
+					"name": "我本善良",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4695776815939634",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 30,
+					"name": "洗袜子",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4696857079906344",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 31,
+					"name": "北京第一嫖客",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4696858627604566",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 32,
+					"name": "中国儿童银行",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4696860103999527",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 33,
+					"name": "制服诱惑",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4697605645729927",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 34,
+					"name": "理解万岁",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4697606899826695",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 35,
+					"name": "夜总会",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4697949847093267",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 36,
+					"name": "大肠刺身",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4697950283300911",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 37,
+					"name": "口吐莲花",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4698005119631484",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 38,
+					"name": "四川二簧",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4698653756162103",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 39,
+					"name": "日本梆子",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4698654435639300",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 40,
+					"name": "古汉语专家",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4699404075204674",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 41,
+					"name": "两元古玩店",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4699755528519792",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 42,
+					"name": "狼奔鼠窜",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4700135264026727",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 43,
+					"name": "姚家井",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4700136589426756",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 44,
+					"name": "色即是空",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4700508720660497",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 45,
+					"name": "于谦移民东北",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4701211757314173",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 46,
+					"name": "寒暑不侵",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4701578318512155",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 47,
+					"name": "男人如衣服",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4701577743892593",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 48,
+					"name": "我要得奖",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4701929947988123",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 49,
+					"name": "陪你一晚",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4702308567810060",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 50,
+					"name": "于谦说日语",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4702650986594410",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 51,
+					"name": "摩天大厦",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4703024766189588",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 52,
+					"name": "腰果鸡丁",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4703735717494858",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 53,
+					"name": "似曾相识的人",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4704461676019812",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 54,
+					"name": "我是大厨",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4704465543168045",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 55,
+					"name": "卖吊票",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4704875511218359",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 56,
+					"name": "大登殿",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4705179489206382",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 57,
+					"name": "鬼头刀",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4705975203201087",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 58,
+					"name": "拍照惊奇",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4706292963672187",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 59,
+					"name": "卖药糖",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4708087819599934",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 61,
+					"name": "爱情传奇",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4708861328949324",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 62,
+					"name": "于家传奇",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4708896741457962",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 63,
+					"name": "于谦洗澡",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4709551090630684",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 64,
+					"name": "怯富贵",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4709887280873592",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 65,
+					"name": "梦中婚",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4709888358809667",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 66,
+					"name": "学西河",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4709889164115988",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 67,
+					"name": "忘年交",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4710325635973168",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 68,
+					"name": "戏曲杂谈",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4710648844845160",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 69,
+					"name": "大保镖",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4711767088234583",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 70,
+					"name": "被绑架的于谦",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4712165010243689",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 71,
+					"name": "摇煤球",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4712500944633880",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 72,
+					"name": "我要吃炸鸡",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4713165259472997",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 73,
+					"name": "法国香水",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4713529455083624",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 75,
+					"name": "我要奋斗",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4713917373677649",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 76,
+					"name": "肛裂的汉子",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4713932980682797",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 77,
+					"name": "老师来了",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4714267790999621",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 78,
+					"name": "李菁家事",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4714610075566170",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 79,
+					"name": "验尿",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4714618812301339",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 80,
+					"name": "仗义疏财",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4714621265969278",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 81,
+					"name": "大选",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4716450590687265",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 82,
+					"name": "算命高人",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4716473101516871",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 83,
+					"name": "满汉全席",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4716473852297291",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 84,
+					"name": "师傅经",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4717211995275287",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 85,
+					"name": "你有病吧",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4717514274570365",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 86,
+					"name": "河南戏",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4717925920342150",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 87,
+					"name": "艺术大观",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4718621839261709",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 88,
+					"name": "寡人我劫色",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4719339891523641",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 89,
+					"name": "你本善良",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4720062859509803",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 90,
+					"name": "路边偶遇",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4720062578491502",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 91,
+					"name": "大爷传奇",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4720444801220654",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 92,
+					"name": "揭瓦",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4720469245624440",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 93,
+					"name": "学小曲",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4720798368464907",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 94,
+					"name": "大铁门",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4720802793455671",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 95,
+					"name": "我恨秦始皇",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4721588260765775",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 96,
+					"name": "父子英雄",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4721595416248373",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 97,
+					"name": "山东二簧",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4721881887211621",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 98,
+					"name": "我这半辈子",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4722995114213383",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 99,
+					"name": "吃论",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4722995114213383",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 100,
+					"name": "神马都是浮云",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4723319036117045",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 101,
+					"name": "单身男女",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4723647173296136",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 102,
+					"name": "日本电影演员",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4724043329503350",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 103,
+					"name": "四大名著",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4725099530747982",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 104,
+					"name": "全家福",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4726254709178395",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 105,
+					"name": "喝酒令",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4726581139275791",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 106,
+					"name": "跳大神",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4726601339043863",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 107,
+					"name": "舞蹈家",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4726904453005329",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 108,
+					"name": "学问家",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4727365755142217",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 109,
+					"name": "我这半辈子",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4728737376436254",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 110,
+					"name": "你好北京",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4729107372769351",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 111,
+					"name": "泡温泉",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4729957117788233",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 112,
+					"name": "杨乃武写状",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4729958493519949",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 113,
+					"name": "春宵一刻",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4731972682186759",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 114,
+					"name": "一户侯",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4731975307821124",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 115,
+					"name": "报菜名",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4731996946235498",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 116,
+					"name": "没钱相亲",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4732358126141540",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 117,
+					"name": "小心眼",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4732530008719472",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 118,
+					"name": "忍着活着",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4733576101691485",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 119,
+					"name": "戏子厨子痞子",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4734518964453386",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 120,
+					"name": "于谦竞选国王",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4734876881190935",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 121,
+					"name": "武坠子",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4734886121242652",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 122,
+					"name": "闹公堂",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4735038940708906",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 123,
+					"name": "好好学习",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4735598255341582",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 124,
+					"name": "学大鼓",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4735717436489794",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 125,
+					"name": "教你在北京装有钱人",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4736098056994955",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 126,
+					"name": "兄弟情长",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4736359819313210",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 127,
+					"name": "男九号裸替",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4736360918220853",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 128,
+					"name": "民以食为天",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4737456378150985",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 129,
+					"name": "我要玩网游",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4738240868188200",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 130,
+					"name": "返场",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4739256871223322",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				}
+			]
+		},
+		{
+			"id": "002",
+			"name": "单口相声",
+            "type":"Sniff",
+			"entities": [
+				{
+					"id": 0,
+					"name": "张小乙下南京",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4628708166926348",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 1,
+					"name": "张小乙回北京",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4736799634030701",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 2,
+					"name": "冯天奇闹通州",
+					"type": "Sniff",
+					"address": "https://v.youku.com/v_show/id_XNDAzMTU3OTg0OA==",
+					"userAgent": "Mozilla/5.0 (Windows NT 10; Win64; x64; rv:83.0) Gecko/20100101 Firefox/83.0",
+					"sniffRules": [
+						"start:http > contain:/playlist/m3u8"
+					]
+				},
+				{
+					"id": 3,
+					"name": "你好妖怪",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4629066096246833",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 4,
+					"name": "封神",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4630411457003526",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 5,
+					"name": "丑娘娘",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4662172656271440",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 6,
+					"name": "水浒传",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4738732939739260",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 7,
+					"name": "好汉武松",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4738278042304562",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 8,
+					"name": "枪毙任老道",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4649041427103838",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 9,
+					"name": "怯卖菜",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4738942524915794",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 10,
+					"name": "阴阳扣",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4630610258624522",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				},
+				{
+					"id": 11,
+					"name": "闹苏州",
+					"type": "Sniff",
+					"address": "https://video.weibo.com/show?fid=1034:4635417765675086",
+					"sniffRules": [
+						"start:http > contain:video.weibocdn.com > contain:.mp4"
+					]
+				}
+			]
+		}
+	]
+}
