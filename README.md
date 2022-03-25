@@ -105,5 +105,5 @@ PS: 方案2和方案3需要将http修改为outside，https修改为outsides
 PS: 可以直接发送文件给好友导入，例如：手机QQ选择使用其它应用打开
 ```
 
-[查看示例](https://github.com/miantiaox/data-maven/index.html)
+[测试导入](https://miantiaox.github.io/data-maven/intent.html)
 
