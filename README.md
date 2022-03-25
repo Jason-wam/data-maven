@@ -97,9 +97,11 @@ PS: 软件优先执行嗅探规则，如果没有填写规则软件将自动匹�
 
 ##### 数据编写完毕后,如何将数据导入资源猫
 ```
-方案1: 请将文件名修改为 xxx.cat.json 即可直接调用资源猫导入,必须以 .cat.json 结尾
-方案2: 网页导入http链接 <a href="outside://www.baidu.com/test.cat.json">点击导入</a>
-方案3: 网页导入https链接 <a href="outsides://www.baidu.com/test.cat.json">点击导入</a>
+方案1: 请将文件后缀修改为 *.vdt 即可直接调用资源猫导入
+方案2: 请将文件名修改为 *.cat.json 即可直接调用资源猫导入,必须以 .cat.json 结尾
+
+方案3: 网页导入http链接 <a href="outside://www.baidu.com/test.cat.json">点击导入</a>
+方案4: 网页导入https链接 <a href="outsides://www.baidu.com/test.cat.json">点击导入</a>
 
 PS: 方案2和方案3需要将http修改为outside，https修改为outsides
 PS: 可以直接发送文件给好友导入，例如：手机QQ选择使用其它应用打开
