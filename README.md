@@ -42,9 +42,9 @@
 }
 ```
 ##### 示例文件
-[点击查看直播源示例](https://raw.githubusercontent.com/miantiaox/data-maven/master/%E6%B7%B7%E5%90%88%E7%9B%B4%E6%92%AD%E6%BA%90.cat.json)
+[点击查看直播源示例](https://github.com/miantiaox/data-maven/blob/master/%E6%B7%B7%E5%90%88%E7%9B%B4%E6%92%AD%E6%BA%90.cat.json)
 <br/>
-[点击查看嗅探源示例](https://raw.githubusercontent.com/miantiaox/data-maven/master/%E9%83%AD%E5%BE%B7%E7%BA%B2%E7%9B%B8%E5%A3%B0%E9%9B%86.cat.json)
+[点击查看嗅探源示例](https://github.com/miantiaox/data-maven/blob/master/%E9%83%AD%E5%BE%B7%E7%BA%B2%E7%9B%B8%E5%A3%B0%E9%9B%86.cat.json)
 ...
 <br/>
 ##### 播放链接类型
