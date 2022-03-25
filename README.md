@@ -42,9 +42,9 @@
 }
 ```
 ##### 示例文件
-[点击查看直播源示例](https://gitee.com/miantiaox/data-maven/blob/master/%E6%B7%B7%E5%90%88%E7%9B%B4%E6%92%AD%E6%BA%90.cat.json)
+[点击查看直播源示例](https://raw.githubusercontent.com/miantiaox/data-maven/master/%E6%B7%B7%E5%90%88%E7%9B%B4%E6%92%AD%E6%BA%90.cat.json)
 <br/>
-[点击查看嗅探源示例](https://gitee.com/miantiaox/data-maven/blob/master/%E9%83%AD%E5%BE%B7%E7%BA%B2%E7%9B%B8%E5%A3%B0%E9%9B%86.cat.json)
+[点击查看嗅探源示例](https://raw.githubusercontent.com/miantiaox/data-maven/master/%E9%83%AD%E5%BE%B7%E7%BA%B2%E7%9B%B8%E5%A3%B0%E9%9B%86.cat.json)
 ...
 <br/>
 ##### 播放链接类型
@@ -101,8 +101,7 @@ PS: 软件优先执行嗅探规则，如果没有填写规则软件将自动匹�
 方案2: 网页导入http链接 <a href="outside://www.baidu.com/test.cat.json">点击导入</a>
 方案3: 网页导入https链接 <a href="outsides://www.baidu.com/test.cat.json">点击导入</a>
 
-方案2 [点击导入混合直播源](outsides://raw.githubusercontent.com/miantiaox/data-maven/master/%E6%B7%B7%E5%90%88%E7%9B%B4%E6%92%AD%E6%BA%90.cat.json)
-方案3 [点击导入郭德纲相声](outsides://raw.githubusercontent.com/miantiaox/data-maven/master/%E9%83%AD%E5%BE%B7%E7%BA%B2%E7%9B%B8%E5%A3%B0%E9%9B%86.cat.json)
+[查看示例](https://github.com/miantiaox/data-maven/index.html)
 
 PS: 方案2和方案3需要将http修改为outside，https修改为outsides
 PS: 可以直接发送文件给好友导入，例如：手机QQ选择使用其它应用打开
