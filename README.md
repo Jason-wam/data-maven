@@ -75,7 +75,7 @@ Decode:
 匹配对应媒体链接  ->>>  https://www.baidu.com/video/VZ8y4bATlx07MWiZlXuo0104120j4ZMY0E070.mp4
 规则解析          ->>>  链接域名必须是www.baidu.com，链接必须包含video，链接必须包含.mp4
 ```
-###### 
+###### 规则解释
 ```
 host:      ->>匹配指定域名
 start:     ->>匹配指定开头
