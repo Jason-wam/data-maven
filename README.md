@@ -18,24 +18,23 @@
           "name": "CCTV1",
           "type": "Play",   //播放链接类型: <Play,Sniff,Decode,Cloud> , 具体类型介绍请看下文<播放链接类型>介绍
           "address": "http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8"
-        },
-        {
-          "id": 2,
-          "name": "我要幸福",
-          "type": "Sniff",
-          "address": "https://video.weibo.com/show?fid=1034:4711863733387391",
-          "sniffRules": [   //嗅探规则，可以省略，如果媒体格式特殊可以自行添加额外规则
-			 "start:http > contain:video.weibocdn.com > contain:.mp4"  //匹配规则，具体看下文<嗅探规则>介绍
-		   ]
         }
       ]
     },
     {
       "id": "2",
       "name": "播放列表2",
-      "isLive": true,
-      "entities": [
-        //同上，可以是多个
+      "isLive": false,
+      "entities": [//同上，可以是多个
+	{
+          "id": 1,
+          "name": "我要幸福",
+          "type": "Sniff",
+          "address": "https://video.weibo.com/show?fid=1034:4711863733387391",
+          "sniffRules": [   //嗅探规则，可以省略，如果媒体格式特殊可以自行添加额外规则
+		 "start:http > contain:video.weibocdn.com > contain:.mp4"  //匹配规则，具体看下文<嗅探规则>介绍
+	  ]
+        }
       ]
     }
   ]
